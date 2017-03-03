@@ -1,0 +1,15 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+   
+
+    <!-- Application theme. -->
+    <style name="AppTheme" >
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    
+    <style name="Theme.MyDialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowBackground">@drawable/my_dialog</item>
+    </style>
+    
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+	<browser version="2.0" cache="1" title="系统登陆" xmlns:map="http://www.cndata.com">
+		<body>
+			<map:layout name="flow">
+				<item>
+					<map:login name="系统登录" autologin="true" saveaccount="true" isonline="true" action="mapScript://go()" href="login" bgimg="bg_login.png" target="_blank"/>
+				</item>
+			</map:layout>
+		</body>
+	</browser>
+</response>

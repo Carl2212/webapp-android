@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <!-- <string name="server_url">http://219.142.4.147:60001/ms/</string>
+    <string name="qybm">BJDX</string>
+    <string name="xmbm">BJDXOA</string> -->
+    
+    <string name="server_url">http://59.34.0.28:3456/ms/</string>
+    <string name="qybm">ZQ</string>
+    <string name="xmbm">ZQOA</string>
+    
+    <!-- <string name="server_url">http://192.168.200.74:6390/ms/</string>
+    <string name="qybm">GDSLYJ</string>
+    <string name="xmbm">GDSLYJOA</string> -->
+    
+    <string name="client_type">android</string>
+    <!-- <string name="client_type">androidpad</string> -->
+    <string name="app_name">肇庆高新区移动办公</string>
+
+    <string name="label_setting">设置</string>
+    <string name="label_feedback">反馈</string>
+    <string name="label_about">关于</string>
+    <string name="label_exit">退出</string>
+    
+    <string name="launcher_name">@string/app_name</string>
+    <string name="activity_name">@string/launcher_name</string>
+    
+    <string name="downloading">下载中</string>
+    <string name="cancel">取消</string>
+</resources>
