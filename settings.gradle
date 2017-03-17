@@ -1,1 +1,3 @@
-include ':app'
+// GENERATED FILE - DO NOT EDIT
+include ":"
+include ":CordovaLib"
